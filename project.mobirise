@@ -43,7 +43,7 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-119816441-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-119816441-1');\r\n</script>\r\n",
     "siteUrl": "https://www.theunitedummah.tk/",
     "sitemapSwitcherAuto": "",
     "sitemapSwitcher": "on"
