@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#348a14",
@@ -37,14 +37,16 @@
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
+    "robotsSwitcher": "on",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "https://www.theunitedummah.tk/",
+    "sitemapSwitcherAuto": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
