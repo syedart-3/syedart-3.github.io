@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The United Ummah",
-    "currentPage": "index.html",
+    "currentPage": "aboutus2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -53,7 +53,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "[googlea00a4169d30f87fa.html]",
+        "meta_descr": " l]",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2485,7 +2485,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Brothers and Sisters Asslam o Alikum! This is Our first blog in our newly created website,it is about our site \"The Muslim Times\". We got the idea of ​​making this Website when we realized that many of anti-Muslim sites are active on internet and working for spreading disunity and hate between Muslim Ummah. They use our sects to spread fire of hate between us. We are trapped in the hate fire,they divided us and now ruling on us. Unfortunately our all Imams and Scholars are helping these anti-Muslim powers. Some scholars are fulfilling their mission without knowing anything(How are they doing this? And what is the reason?This is another topic and we'll describe it in another blog Insha Allah) some scholars are their supporters and enemies of religion because they love Dunya more than Deen........</div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Due to their actions now Muslims are oppressed in world..... So  due to this reason we thought to create a Website for awareness of Muslim Ummah..... To tell Muslim nation that how anti-Muslim powers are active against us and How we can be unite again?\n<div>This newly created site is incomplete,we have to do a lot of work on it. You can also help us through <a href=\"index.html#form3-j\">subscribing</a> us and spreading our voice and sharing our website all around the world......if you really want to see Muslims as a United and one Ummah</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Brothers and Sisters Asslam o Alikum! This is Our first blog in our newly created website,it is about our site \"The Muslim Times\". We got the idea of ​​making this Website when we realized that many of anti-Muslim sites are active on internet and working for spreading disunity and hate between Muslim Ummah. They use our sects to spread fire of hate between us. We are trapped in the hate fire,they divided us and now ruling on us. Unfortunately our all Imams and Scholars are helping these anti-Muslim powers. Some scholars are fulfilling their mission without knowing anything(How are they doing this? And what is the reason?This is another topic and we'll describe it in another blog Insha Allah) some scholars are their supporters and enemies of religion because they love Dunya more than Deen........</div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Due to their actions now Muslims are oppressed in world..... So  due to this reason we thought to create a Website for awareness of Muslim Ummah..... To tell Muslim nation that how anti-Muslim powers are active against us and How we can be unite again?\n<div>This newly created site is incomplete,we have to do a lot of work on it. You can also help us through <a href=\"index.html#form3-j\">subscribing</a> us and spreading our voice and sharing our website all around the world......if you really want to see Muslims as a United and one Ummah.<br>To read our newest Blogs and news, click <a href=\"https://themuslimtimes1.wixsite.com/themuslimtimes\">here</a>&nbsp;or click on <a href=\"index.html#header2-2\">learn more</a>&nbsp;in the home page.</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content3-n",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
